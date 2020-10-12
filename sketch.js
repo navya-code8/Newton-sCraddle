@@ -45,7 +45,6 @@ function draw() {
   rectMode(CENTER);
   background("silver");
 
-  upArrowPressed()
  
   rope1.display();
   rope2.display();
